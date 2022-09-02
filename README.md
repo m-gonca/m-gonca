@@ -1,7 +1,8 @@
 Hello there! 👩‍💻
 
-I'm Monica, a student at 42school in 🌈Barcelona🌈
-You will find here projects from the school that have been passed✔️ by other evaluators in the school.
-If you find any mistakes let me know 👀
+I'm Monica, a student at 42school in 🌈Barcelona🌈 and former Frontend Bootcamp student at Ironhack💻 
+You will find here:
+- projects in C language from 42school that have been passed✔️ by other evaluators. If you find any mistakes let me know! 👀
+- labs from my time with Ironhack's frontend bootcamp that involve HTML, CSS, Tailwind, Bootstrap, JS, Vue.JS, Supabase, Pinia and more
 
 Enjoy!✨💫
